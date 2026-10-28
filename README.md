@@ -738,7 +738,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Send and verify OTP codes over SMS, WhatsApp and Telegram in 190+ countries.
 - [Paper Plane Post](https://paperplanepost.com/for/agents) `https://api.paperplanepost.com/v1/mcp`
   [![Paper Plane Post MCP connector](https://glama.ai/mcp/connectors/com.paperplanepost/office/badges/score.svg)](https://glama.ai/mcp/connectors/com.paperplanepost/office)
-  🔓 - Create an unpaid photo postcard draft, then review and pay for printing and mailing on the website.
+  🔓 - Create and send an AI-illustrated postcard anywhere in the world.
 - [PaperAgent](https://paperagent.dev) `https://paperagent.dev/mcp`
   [![PaperAgent MCP connector](https://glama.ai/mcp/connectors/dev.paperagent/letters/badges/score.svg)](https://glama.ai/mcp/connectors/dev.paperagent/letters)
   🔓 - Mail one-off USPS letters from chat: validates the US address, shows a PDF preview and total, and waits for approval.
